@@ -1,0 +1,40 @@
+.headB{
+    margin-left: 45%;
+    border: black 2px solid;
+    width: 200px;
+    padding: 5px;
+}
+
+.addB{
+    margin-left: 46%;
+    margin-top: 50px;
+}
+
+
+.formS{
+    margin-left: 35%;
+    margin-top: 15px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.title{
+    margin-left: 15%;
+    width: 100vw;
+}
+
+.tit{
+    margin-left: 14%;
+    width: 100vw;
+    margin-top: 25px;
+}
+
+
+.textarea{
+    margin-top: -20px;
+    height: 100px;
+}
+
+.btn{
+    margin-left: 23%;
+    margin-top: 20px;
+}
